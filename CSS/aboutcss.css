@@ -1,0 +1,156 @@
+body{
+    color:white;
+    background-color:black;
+    margin: 0px;
+}
+.header{
+border-bottom: 10px solid rgb(226, 15, 15);
+height: 140px;
+background-color: black;
+}
+.header img{
+float: left;
+margin-top: 1%;
+}
+.shopping{
+float: right;
+margin-top: 2.5%;
+margin-right: 1%;
+}
+.shoppingtext{
+float: left;
+}
+.shopicon{
+float: right;
+}
+.shopicon img{
+max-width: 50px;
+width: 100%;
+}
+.headhome{
+text-align: center;
+margin-bottom: 2%;
+float: right;
+margin-top: 7%;
+margin-right: 20%;
+}
+.headhome a{
+color: white;
+text-decoration: none;
+}
+.titlebod{
+background-color: white;
+color: black;
+height: 1325px;
+}
+.titlebod h1{
+background-color: white;
+display: block;
+padding: 60px;
+text-align:center;
+color: #3e3e3e;
+font-family: "Roboto";
+font-size: 70px;
+text-transform: uppercase;
+border: 14px solid #ac091f;
+max-width: 100%;
+margin-left: 0%;
+margin-top: 0px;
+/*line-height: 22px;*/
+font-style: normal;
+text-rendering: optimizeLegibility;
+clear: both;
+position: relative;
+top:10px;
+}
+.titlebod h2{
+text-align: center;
+font-size: 50px;
+line-height: 1.2em;
+width: 77%;
+max-width: 100%;
+margin-left: 10.2%;
+margin-top: 7%;
+text-transform: uppercase;
+font-family: "Roboto Condensed", 'Helvetica Neue', Helvetica, sans-serif;
+font-weight: 600;
+font-style: normal;
+text-rendering: optimizeLegibility;
+clear: both;
+}
+.titlebod p{
+font-size:35px;
+text-align: center;
+font-weight: 400;
+margin-left: 8%;
+margin-right: 9.5%;
+color:rgb(61, 56, 56);
+}
+.facts h3{
+text-align: center;
+margin-top: 5%;
+font-size: 50px;
+}
+.listcentre{
+display:inline-block;
+/*()  text-align: center;
+list-style-position: inside;*/
+margin-left: 35%;
+margin-right: auto;
+font-size: 30px;
+margin-top: -1.5%;
+color: rgb(48, 34, 34);
+}
+.footer{
+clear: both;
+border-top: 10px solid rgb(226, 15, 15);
+}
+.fc{
+float: left;
+margin-left: 10%;
+margin-top: 3%;
+margin-bottom: 2%;
+}
+.fc h3{
+font-size: 18px;
+padding-bottom: 10px;
+border-bottom: 1px solid white;
+}
+.fc p{
+font-size: 13px;
+color: #a2a2a2;
+}
+.fm{
+float: left;
+margin-left: 3%;
+margin-top: 3%;
+margin-bottom: 2%;
+
+}
+.fm h4{
+font-size: 18px;
+padding-bottom: 10px;
+border-bottom: 1px solid white;
+}
+.fp{
+float: left;
+margin-left: 3%;
+margin-top: 2.7%;
+margin-bottom: 2%;
+}
+.fp h5{
+font-size: 18px;
+padding-bottom: 10px;
+border-bottom: 1px solid white;
+}
+.fp ul{
+font-size: 13px;
+color: #a2a2a2;
+margin-left:-23px;
+}
+.fl{
+float: left;
+margin-left: 10%;
+margin-top: 3%;
+margin-bottom: 2%;
+}
